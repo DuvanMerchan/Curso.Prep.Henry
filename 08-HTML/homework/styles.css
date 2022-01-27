@@ -1,0 +1,32 @@
+
+     h1{
+          color: red;
+     }
+    img{
+       width: 400px;
+     }
+     #thirdDiv {
+       width: 500px;
+    height: 600px;
+    padding: 50px;
+   background-color: cornflowerblue;
+  border: 20px double darkgray;
+                }
+      #spanId {
+     font-size: 18px;
+     margin: 50px;
+                }
+     body{
+          display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+    margin: 0;
+    padding: 0;
+    background: url(https://previews.123rf.com/images/danflcreativo/danflcreativo1706/danflcreativo170600518/80998552-fondo-del-marco-del-dise%C3%B1o-blanco-con-bordes-decorados-.jpg);   
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+         
+    
